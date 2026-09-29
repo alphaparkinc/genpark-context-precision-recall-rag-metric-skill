@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-context-precision-recall-rag-metric-skill"
+version = "1.0.0"
+description = "RAG context precision and context recall evaluator measuring retrieved chunk relevance and rank quality"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
