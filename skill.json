@@ -1,0 +1,20 @@
+{
+  "name": "genpark-context-precision-recall-rag-metric-skill",
+  "version": "1.0.0",
+  "description": "RAG context precision and context recall evaluator measuring retrieved chunk relevance and rank quality",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "context-precision",
+    "context-recall",
+    "rag-evaluation",
+    "information-retrieval",
+    "rag-triad",
+    "python-standard-library",
+    "agent-skills",
+    "benchmark",
+    "retrieval-metrics",
+    "eval-framework"
+  ]
+}
