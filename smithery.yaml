@@ -1,0 +1,6 @@
+name: genpark-context-precision-recall-rag-metric-skill
+version: 1.0.0
+description: RAG context precision and context recall evaluator measuring retrieved chunk relevance and rank quality
+command: python
+args:
+  - mcp_server.py
